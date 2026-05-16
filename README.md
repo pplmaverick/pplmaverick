@@ -1,16 +1,17 @@
-## Hi there 👋
+## 0xZero | On-chain Builder
 
-<!--
-**pplmaverick/pplmaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building prediction markets and trading automation systems on EVM chains.
 
-Here are some ideas to get you started:
+### 🔨 Recent Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌦️ **[Arc Weather Market](https://github.com/pplmaverick/arc-projects)** — USDC prediction market on Circle's Arc Network, with n8n Oracle and ERC-8004 AI Agent
+- ⚡ **[Tempo Weather Market](https://github.com/pplmaverick/tempo-weather-market)** — Weather prediction market on Tempo network, settled in pathUSD/USDC
+- 📊 **[Crypto Monitor Tools](https://github.com/pplmaverick/crypto-monitor-tools)** — DeFi monitoring for funding rates, price spreads, and Korean exchange listings
+
+### 🛠️ Stack
+
+Solidity · Hardhat · TypeScript · Python · n8n · React
+
+### 📍
+
+Taiwan 🇹🇼 | DYOR. NFA.
