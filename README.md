@@ -1,17 +1,20 @@
-## 0xZero | On-chain Builder
+# 0xZero | On-chain Builder
 
-Building prediction markets and trading automation systems on EVM chains.
+Building native prediction markets across EVM and ZK chains.
+Each implementation purpose-built for the target chain — not ported.
 
-### 🔨 Recent Projects
+## 🔨 Projects
 
-- 🌦️ **[Arc Weather Market](https://github.com/pplmaverick/arc-projects)** — USDC prediction market on Circle's Arc Network, with n8n Oracle and ERC-8004 AI Agent
-- ⚡ **[Tempo Weather Market](https://github.com/pplmaverick/tempo-weather-market)** — Weather prediction market on Tempo network, settled in pathUSD/USDC
-- 📊 **[Crypto Monitor Tools](https://github.com/pplmaverick/crypto-monitor-tools)** — DeFi monitoring for funding rates, price spreads, and Korean exchange listings
+- 🌦️ [Arc Weather Market](https://github.com/pplmaverick/arc-projects) — USDC prediction market on Circle's Arc Network · n8n Oracle · ERC-8004 AI Agent
+- ⚡ [Tempo Weather Market](https://github.com/pplmaverick/tempo-weather-market) — Native Tempo implementation · MPP · Fee Sponsorship · Scheduled Transactions · Deployed on mainnet
+- 🔒 [Seismic Privacy Spread Monitor](https://github.com/pplmaverick/seismic-spread-monitor) — On-chain spread monitor with shielded types (`suint256` / `saddress`)
+- 🔮 [Miden Weather Market](https://github.com/pplmaverick/miden-weather-market) — ZK prediction market on Miden · private bet commitments · Poseidon oracle auth
+- 📊 [Crypto Monitor Tools](https://github.com/pplmaverick/crypto-monitor-tools) — DeFi monitoring for funding rates, price spreads, and Korean exchange listings
 
-### 🛠️ Stack
+## 🛠️ Stack
 
-Solidity · Hardhat · TypeScript · Python · n8n · React
+Solidity · Hardhat · Foundry · TypeScript · Viem · Python · n8n · React · Docker
 
-### 📍
+## 📍
 
-Taiwan 🇹🇼 | DYOR. NFA.
+Taiwan 🇹🇼 · DYOR. NFA.
