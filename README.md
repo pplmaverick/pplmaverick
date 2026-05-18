@@ -15,6 +15,4 @@ Each implementation purpose-built for the target chain — not ported.
 
 Solidity · Hardhat · Foundry · TypeScript · Viem · Python · n8n · React · Docker
 
-## 📍
-
 Taiwan 🇹🇼 · DYOR. NFA.
