@@ -12,6 +12,7 @@ Building native prediction markets across EVM and ZK chains. Each implementation
 - 🏦 [Robinhood Stock Market](https://github.com/pplmaverick/robinhood-stock-market) — RWA stock prediction market on Robinhood Chain · Native stock tokens (TSLA/AMZN/PLTR) · Mock oracle (Chainlink Data Streams on mainnet) · USDG settlement
 - 🔗 [Linera Price Market](https://github.com/pplmaverick/linera-price-market) — BTC/ETH/SOL price prediction market on Linera · Microchain architecture · Cross-chain message betting · GraphQL leaderboard · Conway testnet
 - 🔒 [Seismic Privacy Spread Monitor](https://github.com/pplmaverick/seismic-spread-monitor) — On-chain spread monitor with shielded types (`suint256` / `saddress`)
+- 🔐 [Fhenix Confidential Prediction Market](https://github.com/pplmaverick/fhenix-confidential-prediction-market) — FHE-encrypted prediction market on CoFHE · euint64/ebool sealed bets · Arbitrum Sepolia
 - 📊 [Crypto Monitor Tools](https://github.com/pplmaverick/crypto-monitor-tools) — DeFi monitoring for funding rates, price spreads, and Korean exchange listings
 
 ## 🛠️ Stack
