@@ -10,7 +10,7 @@ Building prediction markets & privacy infra across EVM, ZK, and FHE chains. Each
 - ⚡ [Tempo Weather Market](https://github.com/pplmaverick/tempo-weather-market) — Native Tempo implementation · MPP · Fee Sponsorship · Scheduled Transactions · Deployed on mainnet
 - 🔮 [Ritual Weather Market](https://github.com/pplmaverick/ritual-weather-market) — On-chain weather prediction market on Ritual · TEE HTTP Precompile · No oracle bot · Resolves via OpenWeather API called directly from Solidity
 - 🟣 [Miden Weather Market](https://github.com/pplmaverick/miden-weather-market) — ZK prediction market on Miden · Poseidon2 bet commitments · full flow deployed (create → bet → settle → claim)
-- 🗳️ [Aztec Private Voting](https://github.com/pplmaverick/aztec-private-voting) — ZK private voting on Aztec · Noir client-side proofs · SingleUseClaim nullifier · e2e verified on testnet v5.0.0
+- 🗳️ [Aztec Private Voting](https://github.com/pplmaverick/aztec-private-voting) — ZK private voting on Aztec · Noir client-side proofs · SingleUseClaim nullifier · Deployed on Alpha Mainnet v5.0.1
 - 🏦 [Robinhood Stock Prediction Market](https://github.com/pplmaverick/robinhood-prediction-market) — Parimutuel stock prediction market on Robinhood Chain Mainnet · Native Stock Tokens (TSLA/AMZN/PLTR/AMD/NVDA) · Live Chainlink Data Feeds · Deployed day 2 of mainnet launch
 - 🔗 [Linera Price Market](https://github.com/pplmaverick/linera-price-market) — BTC/ETH/SOL price prediction market on Linera · Microchain architecture · Cross-chain message betting · GraphQL leaderboard · Conway testnet
 - 🔒 [Seismic Privacy Spread Monitor](https://github.com/pplmaverick/seismic-spread-monitor) — On-chain spread monitor with shielded types (`suint256` / `saddress`)
