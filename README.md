@@ -5,7 +5,7 @@ Building prediction markets & privacy infra across EVM, ZK, and FHE chains. Each
 ## 🔨 Projects
 
 - 🌙 [Midnight Private Auction](https://github.com/pplmaverick/midnight-private-auction) — Sealed-bid auction on Midnight · Compact ZK commit-reveal · Full 7-step e2e verified on mainnet
-- 🌦️ [Arc Weather Market](https://github.com/pplmaverick/arc-projects) — USDC prediction market on Circle's Arc Network · n8n Oracle · ERC-8004 AI Agent
+- 🌦️ [Presage](https://github.com/pplmaverick/arc-projects) — On-chain prediction markets on Circle's Arc · USDC-native · n8n Oracle · ERC-8004 AI Agent
 - 🏊 [Pharos Weather Market](https://github.com/pplmaverick/pharos-weather-market) — Cross-chain prediction market on Pharos · Chainlink CCIP Oracle · CCTP integration · Deployed on mainnet
 - ⚡ [Tempo Weather Market](https://github.com/pplmaverick/tempo-weather-market) — Native Tempo implementation · MPP · Fee Sponsorship · Scheduled Transactions · Deployed on mainnet
 - 🔮 [Ritual Weather Market](https://github.com/pplmaverick/ritual-weather-market) — On-chain weather prediction market on Ritual · TEE HTTP Precompile · No oracle bot · Resolves via OpenWeather API called directly from Solidity
